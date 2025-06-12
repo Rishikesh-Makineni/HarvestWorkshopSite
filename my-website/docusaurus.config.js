@@ -3,13 +3,13 @@ import { themes as prismThemes } from 'prism-react-renderer';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config = {
-  title: 'ICICLE AI Institute - Training Catalog',
+  title: 'Harvest Workshop',
   //tagline: 'Welcome to the Official Documentation Hub for ICICLE AI Institute \nExplore a centralized repository featuring component and API documentation, educational resources for both youth and professionals, workshop materials, ICICLE in a Nutshell videos, and much more.\nEasily filter content by tags or browse freely through our well-organized documentation to find exactly what you need.',
   favicon: 'img/favicon.ico',
   customFields: {
-    heroHeading: 'Welcome to the Official Documentation Hub for ICICLE AI Institute',
+    heroHeading: 'Welcome to the Official Harvest Workshop Website Hub',
     heroDescription:
-      'Explore a centralized repository featuring component and API documentation, educational resources for both youth and professionals, workshop materials, ICICLE in a Nutshell videos, and much more. Easily filter content by tags or browse freely through our well-organized documentation to find exactly what you need.',
+      'Explore Harvest Workshop',
   },
 
   // // Set the production url of your site here
@@ -19,8 +19,8 @@ const config = {
   // baseUrl: '/',
 
 
-  url: 'https://ICICLE-ai.github.io', // Your GitHub Pages root
-  baseUrl: '/training-catalog/', // The repository name, with a trailing slash
+  url: 'https://Rishikesh-Makineni.github.io', // Your GitHub Pages root
+  baseUrl: '/HarvestWorkshopSite/', // The repository name, with a trailing slash
   organizationName: 'ICICLE-ai', // Your GitHub organization name
   projectName: 'training-catalog', // Your GitHub repository name
   deploymentBranch: 'gh-pages', // This is where GitHub Pages will be deployed
